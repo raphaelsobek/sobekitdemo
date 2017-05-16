@@ -36,6 +36,7 @@ gem 'devise', '~> 4.3'
 gem 'bcrypt-ruby', '~> 3.0.0'
 gem 'paperclip', '~> 5.1'
 gem 'masonry-rails', '~> 0.2.4'
+gem 'acts_as_votable', '~> 0.10.0'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
